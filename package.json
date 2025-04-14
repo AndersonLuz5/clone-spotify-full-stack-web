@@ -1,0 +1,21 @@
+{
+  "name": "spotify-replica---portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm install --prefix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonLuz5/clone-spotify-full-stack-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonLuz5/clone-spotify-full-stack-web/issues"
+  },
+  "homepage": "https://github.com/AndersonLuz5/clone-spotify-full-stack-web#readme",
+  "description": ""
+}
